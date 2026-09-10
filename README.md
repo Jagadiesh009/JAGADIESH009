@@ -20,9 +20,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3200&pause=900&color=C8B6FF&center=true&vCenter=true&width=950&height=45&lines=I+design+and+build+digital+experiences+that+turn+ideas+into+something+people+can+actually+use." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=65&text=BUILD%20%E2%80%A2%20DESIGN%20%E2%80%A2%20EXPERIMENT&fontSize=18&fontColor=C8B6FF&animation=twinkling&fontAlignY=55"/>
 
 </div>
+
+> **I design and build digital experiences that turn ideas into something people can actually use.**
 
 I'm a developer focused on building **modern web products, useful tools and polished digital experiences.**
 
@@ -30,7 +32,7 @@ I care about the details — from architecture and performance to interaction, t
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=1800&pause=700&color=9B8AFB&center=true&vCenter=true&width=700&height=35&lines=BUILD+%E2%86%92+DESIGN+%E2%86%92+EXPERIMENT+%E2%86%92+DEPLOY+%E2%86%92+IMPROVE" />
+`BUILD`   `DESIGN`   `EXPERIMENT`   `DEPLOY`   `IMPROVE`
 
 </div>
 
@@ -44,11 +46,11 @@ I care about the details — from architecture and performance to interaction, t
 
 ### ◈ Smart Campus
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=2200&pause=700&color=C8B6FF&center=false&vCenter=true&width=400&height=25&lines=COMPLETED+%E2%80%A2+READY+TO+USE" />
-
 A practical campus platform designed to bring useful student services into one place.
 
-**Status:** `COMPLETED`
+<br>
+
+<img src="https://img.shields.io/badge/●%20COMPLETED-8B5CF6?style=flat-square&labelColor=16121F"/>
 
 </td>
 
@@ -56,11 +58,11 @@ A practical campus platform designed to bring useful student services into one p
 
 ### ◈ Student Helper
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=2200&pause=700&color=C8B6FF&center=false&vCenter=true&width=400&height=25&lines=BUILDING+%E2%80%A2+CURRENTLY+IN+PROGRESS" />
-
 A student-focused platform built around asking questions, discovering answers and creating a useful campus community.
 
-**Status:** `IN PROGRESS`
+<br>
+
+<img src="https://img.shields.io/badge/●%20IN%20PROGRESS-9B8AFB?style=flat-square&labelColor=16121F"/>
 
 </td>
 </tr>
@@ -70,11 +72,11 @@ A student-focused platform built around asking questions, discovering answers an
 
 ### ◈ AI Resume Analyzer
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=2200&pause=700&color=C8B6FF&center=false&vCenter=true&width=400&height=25&lines=NEXT+UP+%E2%80%A2+COMING+SOON" />
-
 An AI-powered concept focused on analyzing resumes and providing useful career-oriented feedback.
 
-**Status:** `COMING SOON`
+<br>
+
+<img src="https://img.shields.io/badge/●%20COMING%20SOON-6F63A8?style=flat-square&labelColor=16121F"/>
 
 </td>
 
@@ -82,11 +84,11 @@ An AI-powered concept focused on analyzing resumes and providing useful career-o
 
 ### ◈ Personal Finance Tracker
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=2200&pause=700&color=C8B6FF&center=false&vCenter=true&width=400&height=25&lines=PLANNED+%E2%80%A2+COMING+SOON" />
-
 A simple product concept for tracking personal spending, understanding habits and making finances easier to manage.
 
-**Status:** `COMING SOON`
+<br>
+
+<img src="https://img.shields.io/badge/●%20COMING%20SOON-6F63A8?style=flat-square&labelColor=16121F"/>
 
 </td>
 </tr>
@@ -128,13 +130,17 @@ A modern dental clinic website featuring a clean, professional, patient-focused 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2200&pause=700&color=C8B6FF&center=true&vCenter=true&width=700&height=180&lines=%E2%86%92+Full-stack+architecture;%E2%86%92+Modern+web+experiences;%E2%86%92+Cloud+%26+deployment;%E2%86%92+AI-powered+products;%E2%86%92+Product+thinking" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=55&text=FOCUSING%20ON&fontSize=17&fontColor=C8B6FF&animation=blink&fontAlignY=55"/>
 
-</div>
+<br><br>
 
-<br>
+`→` **Full-stack architecture**
+`→` **Modern web experiences**
+`→` **Cloud & deployment**
+`→` **AI-powered products**
+`→` **Product thinking**
 
-<div align="center">
+<br><br>
 
 `BUILDING`   •   `LEARNING`   •   `EXPERIMENTING`
 
@@ -146,7 +152,7 @@ A modern dental clinic website featuring a clean, professional, patient-focused 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=1600&pause=400&color=C8B6FF&center=true&vCenter=true&width=700&height=260&lines=IDEA+%E2%86%92+UNDERSTAND;UNDERSTAND+%E2%86%92+DESIGN;DESIGN+%E2%86%92+BUILD;BUILD+%E2%86%92+DEPLOY;DEPLOY+%E2%86%92+IMPROVE;IMPROVE+%E2%86%92+REPEAT" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=100&text=IDEA%20%E2%86%92%20UNDERSTAND%20%E2%86%92%20DESIGN%20%E2%86%92%20BUILD%20%E2%86%92%20DEPLOY%20%E2%86%92%20IMPROVE&fontSize=16&fontColor=C8B6FF&animation=twinkling&fontAlignY=55"/>
 
 </div>
 
@@ -164,7 +170,7 @@ The goal is simple:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2400&pause=800&color=C8B6FF&center=true&vCenter=true&width=650&height=45&lines=CODE%2C+EXPERIMENTS+%26+IDEAS.;BUILDING+IN+PUBLIC.;ONE+COMMIT+AT+A+TIME." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=65&text=CODE%20%E2%80%A2%20EXPERIMENTS%20%E2%80%A2%20IDEAS&fontSize=18&fontColor=C8B6FF&animation=twinkling&fontAlignY=55"/>
 
 <br><br>
 
@@ -177,21 +183,6 @@ The goal is simple:
 ---
 
 <div align="center">
-
-### `LET'S BUILD SOMETHING.`
-
-<br>
-
-<a href="https://jagadiesh.me">
-<img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%92-8B5CF6?style=for-the-badge"/>
-</a>
-
-<br><br><br>
-
-<sub>Designed & built by Jagadiesh R</sub>
-
-</div>
-
 
 ### `LET'S BUILD SOMETHING.`
 
