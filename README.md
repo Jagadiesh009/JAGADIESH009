@@ -23,7 +23,7 @@
 
 </div>
 
-> **I design and build digital experiences that turn ideas into something people can actually use.**
+ **I design and build digital experiences that turn ideas into something people can actually use.**
 
 I'm a developer focused on building **modern web products, useful tools and polished digital experiences.**
 
