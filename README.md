@@ -14,9 +14,8 @@
 
 </div>
 
----
 
-## `01 / PROFILE`
+## `PROFILE`
 
 <div align="center">
 
@@ -38,7 +37,7 @@ I care about the details — from architecture and performance to interaction, t
 
 ---
 
-## `02 / SELECTED WORK`
+## `SELECTED WORK`
 
 <table>
 <tr>
@@ -72,7 +71,7 @@ A student-focused platform built around asking questions, discovering answers an
 </table>
 ---
 
-## `03 / WEBSITES`
+## `WEBSITES`
 
 ### ◇ Real Estate
 
@@ -92,7 +91,7 @@ A modern dental clinic website featuring a clean, professional, patient-focused 
 
 ---
 
-## `04 / TOOLKIT`
+## `TOOLKIT`
 
 <div align="center">
 
@@ -102,7 +101,7 @@ A modern dental clinic website featuring a clean, professional, patient-focused 
 
 ---
 
-## `05 / CURRENTLY`
+## `CURRENTLY`
 
 <div align="center">
 
@@ -124,7 +123,7 @@ A modern dental clinic website featuring a clean, professional, patient-focused 
 
 ---
 
-## `06 / HOW I WORK`
+## `HOW I WORK`
 
 <div align="center">
 
@@ -142,7 +141,7 @@ The goal is simple:
 
 ---
 
-## `07 / GITHUB`
+## `GITHUB`
 
 <div align="center">
 
