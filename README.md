@@ -27,7 +27,7 @@
 
 I'm a developer focused on building **modern web products, useful tools and polished digital experiences.**
 
-I care about the details — from architecture and performance to interaction, typography and the small things that make a product feel complete.
+I care about the details from architecture and performance to interaction, typography and the small things that make a product feel complete.
 
 <div align="center">
 
@@ -50,9 +50,9 @@ A practical campus platform designed to bring useful student services into one p
 <br>
 <a href="https://smartcampusportal.vercel.app/">
 <img src="https://img.shields.io/badge/●%20COMPLETED-8B5CF6?style=flat-square&labelColor=16121F"/>
+</a>
 
 </td>
-
 <td width="50%">
 
 ### ◈ Student Helper
@@ -60,16 +60,11 @@ A practical campus platform designed to bring useful student services into one p
 A student-focused platform built around asking questions, discovering answers and creating a useful campus community.
 
 <br>
-
 <img src="https://img.shields.io/badge/●%20IN%20PROGRESS-9B8AFB?style=flat-square&labelColor=16121F"/>
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
 </table>
-
 
 ## `WEBSITES`
 
@@ -137,7 +132,7 @@ I prefer **shipping real things** over endlessly planning them.
 
 The goal is simple:
 
-> **Make it useful. Make it clean. Make it feel good to use.**
+**Make it useful. Make it clean. Make it feel good to use.**
 
 ---
 
@@ -169,6 +164,5 @@ The goal is simple:
 
 <br><br><br>
 
-<sub>Designed & built by Jagadiesh R</sub>
 
 </div>
