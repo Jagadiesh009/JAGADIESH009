@@ -35,7 +35,7 @@ I care about the details — from architecture and performance to interaction, t
 
 </div>
 
----
+
 
 ## `SELECTED WORK`
 
@@ -69,7 +69,7 @@ A student-focused platform built around asking questions, discovering answers an
 <tr>
 <td width="50%">
 </table>
----
+
 
 ## `WEBSITES`
 
