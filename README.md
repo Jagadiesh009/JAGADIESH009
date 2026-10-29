@@ -69,7 +69,7 @@ A student-focused platform built around asking questions, discovering answers an
 
 <tr>
 <td width="50%">
-
+</table>
 ---
 
 ## `03 / WEBSITES`
