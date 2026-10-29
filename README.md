@@ -49,7 +49,7 @@ I care about the details — from architecture and performance to interaction, t
 A practical campus platform designed to bring useful student services into one place.
 
 <br>
-<a href="https://yaam-realtors-consultants-demo.vercel.app/">
+<a href="https://smartcampusportal.vercel.app/">
 <img src="https://img.shields.io/badge/●%20COMPLETED-8B5CF6?style=flat-square&labelColor=16121F"/>
 
 </td>
@@ -70,30 +70,6 @@ A student-focused platform built around asking questions, discovering answers an
 <tr>
 <td width="50%">
 
-### ◈ AI Resume Analyzer
-
-An AI-powered concept focused on analyzing resumes and providing useful career-oriented feedback.
-
-<br>
-
-<img src="https://img.shields.io/badge/●%20COMING%20SOON-6F63A8?style=flat-square&labelColor=16121F"/>
-
-</td>
-
-<td width="50%">
-
-### ◈ Personal Finance Tracker
-
-A simple product concept for tracking personal spending, understanding habits and making finances easier to manage.
-
-<br>
-
-<img src="https://img.shields.io/badge/●%20COMING%20SOON-6F63A8?style=flat-square&labelColor=16121F"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## `03 / WEBSITES`
@@ -102,7 +78,7 @@ A simple product concept for tracking personal spending, understanding habits an
 
 A modern real-estate website featuring a polished property and services experience.
 
-<a href="https://yaam-realtors-consultants-demo.vercel.app/">
+<a href="https://demorealestateweb.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20WEBSITE-%E2%86%92-8B5CF6?style=flat-square"/>
 </a>
 
@@ -110,7 +86,7 @@ A modern real-estate website featuring a polished property and services experien
 
 A modern dental clinic website featuring a clean, professional, patient-focused experience with WhatsApp automation for appointment booking.
 
-<a href="https://sridentalclinicdemo.vercel.app/">
+<a href="https://demodentalclinicweb.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20WEBSITE-%E2%86%92-8B5CF6?style=flat-square"/>
 </a>
 
